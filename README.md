@@ -1,4 +1,4 @@
 gitLearn
 ========
 
-This is for leaning how to use git.
+This is for learning how to use git.
